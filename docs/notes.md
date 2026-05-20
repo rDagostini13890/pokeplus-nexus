@@ -20,3 +20,4 @@ Notes and usage details for pokeplus-nexus.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
